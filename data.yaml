@@ -1,0 +1,6 @@
+train: /content/construction-site-safety-image-dataset-roboflow/css-data/train/images
+val: /content/construction-site-safety-image-dataset-roboflow/css-data/valid/images
+test: /content/construction-site-safety-image-dataset-roboflow/css-data/test/images
+
+nc: 10
+names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
